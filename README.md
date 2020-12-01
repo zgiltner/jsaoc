@@ -1,2 +1,2 @@
 # jsaoc
-js for AoC
+javascript(and related) for Advent of Code
