@@ -1,0 +1,30 @@
+byr '.'iyr '.'eyr '.'hgt '.'hcl'.'ecl '.'pid '.'cid 
+
+
+
+
+
+
+
+
+
+
+
+/*
+    const counter = {};
+
+    [...groups.password].forEach(char => {
+        if(!counter(char)) {
+            counter[char] = 0; 
+        }
+        counter[char]++;
+    });
+
+    if(counter[groups.char] >= groups.from && counter[groups.char] <= groups.to) {}
+        validPasswords++;
+    
+    
+})
+
+console.log(validPasswords);
+*/
